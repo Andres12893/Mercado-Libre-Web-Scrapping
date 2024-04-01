@@ -1,5 +1,6 @@
-# Web_scrapping_project
-El objetivo de este proyecto es aprender sobre web scrapping
+# Mercado-Libre-Web-Scrapping
+
+El objetivo de este proyecto es aprender Web Scrapping a traves de la pagina de Mercado Libre, voy a scrapear algunas secciones de items de mi interes para luego calcular un promedio de precio y condiciones (en caso de que estas existan, como por ejemplo cupones o cuotas), para identificar cuando algo esta en "barato" utilizando un promedio de precio de los ultimos 30 dias (en dolares), para la segunda parte vamos a usar una API de tipo de cambio para siempre cauntificarlo en dolares (problemas del tercer mundo)
 
 Futuros Updates:
 1) Darle dinamismo a las url en lugar de estar copiando la url a mano
